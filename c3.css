@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    width: 300px;
+    height: 300px;
+    background: #e7e7eb;
+    border-width: 10px;
+    border-style: double;
+    border-color: #47585c;
+    margin: 30px;
+    padding: 30px;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background: #f09199;
+    border: 5px solid #555647;
+    margin: 60px;
+    padding: 30px;
+}
